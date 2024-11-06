@@ -1,0 +1,119 @@
+@media (max-width: 1399px) {
+    .contact-form{
+        width: 100%;
+    }
+}
+@media (max-width: 1324px) {
+    h1{
+        font-size: 54px;
+    }
+}
+
+@media (max-width: 991px) {
+    h1{
+        font-size: 65px;
+    }
+    h2{
+        font-size: 54px;
+    }
+    h3{
+        font-size: 25px;
+    }
+    h4, h5{
+        font-size: 18px;
+    }
+    p{
+        font-size: 16px;
+    }
+    header{
+        padding: 15px;
+    }
+    .hero-section, .expertise, .portfolio, .testimonials, .contact{
+        padding: 60px 10px;
+    }
+    .expertise-text, .portfolio-content, .testimonials-heading{
+        margin-bottom: 40px;
+    }
+    .about-me-content {
+        padding-left: 10px;
+    }
+    .about-me img {
+        padding-right: 0px;
+    }
+    .contact-form {
+        width: 100%;
+    }
+    .name-field, .mailphone-field, .select-field, .messageaccept-field, .message{
+        margin-bottom: 0px;
+    }
+    .form-label, .form-check-label, #exampleCheck1, .submit-btn {
+        margin-top: 20px;
+    }
+    .portfolio-btn {
+        font-size: 18px;
+        padding: 18px;
+    }
+    .policy li {
+        font-size: 16px;
+    }
+    .made-with {
+        font-size: 16px;
+    }
+    
+}
+@media (max-width: 576px) {
+    h1{
+        font-size: 40px;
+    }
+    h2{
+        font-size: 36px;
+    }
+    .hero-btn{
+        font-size: 18px;
+        padding: 12px 25px;
+    }
+    .header-btn {
+        font-size: 18px;
+        padding: 12px 25px;
+        margin-left: 15px;
+    }
+    .expertise .card img {
+        width: 60px;
+        padding: 7px;
+        margin-bottom: 20px;
+    }
+    .about-me img {
+        padding-right: 0;
+    }
+    .about-me-content {
+        padding-left: 0;
+    }
+    .form-label {
+        font-size: 18px;
+    }
+    .footer-menu{
+        justify-content: center;
+    }
+    .footer-menu .nav-item {
+        margin: 0px 10px;
+      }
+    .footer-menu .nav-link {
+        font-size: 18px;
+    }
+    footer {
+        padding: 40px 10px;
+    }
+    .made-with {
+        text-align: center;
+    }
+    .contact-text {
+        margin-bottom: 20px;
+    }
+    .card-img {
+        width: 120px;
+        margin-bottom: 30px;
+    }
+    .testimonials .card {
+        padding: 30px;
+    }
+}
